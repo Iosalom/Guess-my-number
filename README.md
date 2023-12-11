@@ -9,4 +9,5 @@ Game description:
 > > Number can be chosed from 1 to 20
 > > Guessed number will be eighter low or high
 
----- Game link
+---- Game link: 
+     https://guessmynumber001.netlify.app ----
